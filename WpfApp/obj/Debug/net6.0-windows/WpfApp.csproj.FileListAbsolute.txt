@@ -1,0 +1,40 @@
+D:\Практические уроки С#\P&F\WpfApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Практические уроки С#\P&F\WpfApp\obj\Debug\net6.0-windows\App.g.cs
+D:\Практические уроки С#\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp_MarkupCompile.cache
+D:\Практические уроки С#\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp_MarkupCompile.lref
+D:\Практические уроки С#\P&F\WpfApp\bin\Debug\net6.0-windows\WpfApp.exe
+D:\Практические уроки С#\P&F\WpfApp\bin\Debug\net6.0-windows\WpfApp.deps.json
+D:\Практические уроки С#\P&F\WpfApp\bin\Debug\net6.0-windows\WpfApp.runtimeconfig.json
+D:\Практические уроки С#\P&F\WpfApp\bin\Debug\net6.0-windows\WpfApp.dll
+D:\Практические уроки С#\P&F\WpfApp\bin\Debug\net6.0-windows\WpfApp.pdb
+D:\Практические уроки С#\P&F\WpfApp\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Практические уроки С#\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp.g.resources
+D:\Практические уроки С#\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практические уроки С#\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp.AssemblyInfoInputs.cache
+D:\Практические уроки С#\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp.AssemblyInfo.cs
+D:\Практические уроки С#\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.CoreCompileInputs.cache
+D:\Практические уроки С#\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp.dll
+D:\Практические уроки С#\P&F\WpfApp\obj\Debug\net6.0-windows\refint\WpfApp.dll
+D:\Практические уроки С#\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp.pdb
+D:\Практические уроки С#\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp.genruntimeconfig.cache
+D:\Практические уроки С#\P&F\WpfApp\obj\Debug\net6.0-windows\ref\WpfApp.dll
+D:\Практические уроки С#\3 курс\P&F\WpfApp\bin\Debug\net6.0-windows\WpfApp.exe
+D:\Практические уроки С#\3 курс\P&F\WpfApp\bin\Debug\net6.0-windows\WpfApp.deps.json
+D:\Практические уроки С#\3 курс\P&F\WpfApp\bin\Debug\net6.0-windows\WpfApp.runtimeconfig.json
+D:\Практические уроки С#\3 курс\P&F\WpfApp\bin\Debug\net6.0-windows\WpfApp.dll
+D:\Практические уроки С#\3 курс\P&F\WpfApp\bin\Debug\net6.0-windows\WpfApp.pdb
+D:\Практические уроки С#\3 курс\P&F\WpfApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Практические уроки С#\3 курс\P&F\WpfApp\obj\Debug\net6.0-windows\App.g.cs
+D:\Практические уроки С#\3 курс\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp_MarkupCompile.cache
+D:\Практические уроки С#\3 курс\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp_MarkupCompile.lref
+D:\Практические уроки С#\3 курс\P&F\WpfApp\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Практические уроки С#\3 курс\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp.g.resources
+D:\Практические уроки С#\3 курс\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практические уроки С#\3 курс\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp.AssemblyInfoInputs.cache
+D:\Практические уроки С#\3 курс\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp.AssemblyInfo.cs
+D:\Практические уроки С#\3 курс\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.CoreCompileInputs.cache
+D:\Практические уроки С#\3 курс\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp.dll
+D:\Практические уроки С#\3 курс\P&F\WpfApp\obj\Debug\net6.0-windows\refint\WpfApp.dll
+D:\Практические уроки С#\3 курс\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp.pdb
+D:\Практические уроки С#\3 курс\P&F\WpfApp\obj\Debug\net6.0-windows\WpfApp.genruntimeconfig.cache
+D:\Практические уроки С#\3 курс\P&F\WpfApp\obj\Debug\net6.0-windows\ref\WpfApp.dll

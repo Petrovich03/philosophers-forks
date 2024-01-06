@@ -1,0 +1,14 @@
+D:\Практические уроки С#\P&F\P&F\bin\Debug\net6.0\P&F.exe
+D:\Практические уроки С#\P&F\P&F\bin\Debug\net6.0\P&F.deps.json
+D:\Практические уроки С#\P&F\P&F\bin\Debug\net6.0\P&F.runtimeconfig.json
+D:\Практические уроки С#\P&F\P&F\bin\Debug\net6.0\P&F.dll
+D:\Практические уроки С#\P&F\P&F\bin\Debug\net6.0\P&F.pdb
+D:\Практические уроки С#\P&F\P&F\obj\Debug\net6.0\P&F.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практические уроки С#\P&F\P&F\obj\Debug\net6.0\P&F.AssemblyInfoInputs.cache
+D:\Практические уроки С#\P&F\P&F\obj\Debug\net6.0\P&F.AssemblyInfo.cs
+D:\Практические уроки С#\P&F\P&F\obj\Debug\net6.0\P&F.csproj.CoreCompileInputs.cache
+D:\Практические уроки С#\P&F\P&F\obj\Debug\net6.0\P&F.dll
+D:\Практические уроки С#\P&F\P&F\obj\Debug\net6.0\refint\P&F.dll
+D:\Практические уроки С#\P&F\P&F\obj\Debug\net6.0\P&F.pdb
+D:\Практические уроки С#\P&F\P&F\obj\Debug\net6.0\P&F.genruntimeconfig.cache
+D:\Практические уроки С#\P&F\P&F\obj\Debug\net6.0\ref\P&F.dll
